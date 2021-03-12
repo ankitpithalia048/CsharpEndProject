@@ -1,4 +1,4 @@
 ============Teacher Record===========
 Name: Ankit Pithalia, ClassAndSection: 10 A, ID: 100
 Name: Shaswat Singh, ClassAndSection: 10 b, ID: 101
-Name: ramesh bhauu, ClassAndSection: 1 B, id: 102
+Name: ramesh bhauu, ClassAndSection: 1 B, id: 103
